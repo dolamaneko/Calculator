@@ -1,0 +1,15 @@
+{
+  "name": "simple-js-calculator",
+  "version": "1.0.0",
+  "description": "A simple command-line calculator built with Node.js",
+  "main": "index.js",
+  "bin": {
+    "calc": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["calculator", "cli", "node", "javascript"],
+  "author": "Your Name",
+  "license": "MIT"
+}
